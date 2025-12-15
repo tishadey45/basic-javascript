@@ -1,0 +1,1 @@
+console.log("tisha ", 10, "tispro");
