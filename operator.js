@@ -1,19 +1,33 @@
-var x =2;
-var y =3;
-var total =x+y+8;
+//var x =2;
+//var y =3;
+//var total =x+y+8;
 
-console.log(total);
+//console.log(total);
   
-var minus = total -10;
-console.log(minus);
+//var minus = total -10;
+//console.log(minus);
 
-var maltiple = minus * 2;
+//var maltiple = minus * 2;
 
-console.log(maltiple);
+//console.log(maltiple);
 
-var divide = maltiple / x;
+//var divide = maltiple / x;
 
-console.log(divide);
+//console.log(divide);
+
+//var a = 10;
+//console.log(a % 3);
+
+var a = 20;
+console.log(a % 5);
+
+//var money =23;
+//console.log(money % 2);
+ 
+//var age = 26;
+//console.log(age % 2);
+
+
 
 
 
