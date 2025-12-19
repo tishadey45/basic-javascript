@@ -15,18 +15,18 @@
 
 //console.log(divide);
 
-//var a = 10;
-//console.log(a % 3);
+// var a = 10;
+// console.log(a % 3);
 
-var a = 20;
-console.log(a % 5);
+// var a = 20;
+// console.log(a % 5);
 
-//var money =23;
-//console.log(money % 2);
+// var age = 23;
+// console.log(age % 2);
+
+var x = 85;
+console.log(x % 5);
  
-//var age = 26;
-//console.log(age % 2);
-
 
 
 
